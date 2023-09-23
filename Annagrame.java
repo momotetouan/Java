@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Annagrame
  */
-public class Annagrame {
+public class Annagrame  {
 
     public static void main(String[] args) {
         
